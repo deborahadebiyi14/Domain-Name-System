@@ -11,3 +11,5 @@ N
 contracts/dns-integration.clar,6/d/6d1efbde88415893cb08c16af653a72f9a21447b
 M
 tests/dns-integration.test.ts,4/d/4ddce3973ea8bc7ad2172910c6a1bb59f8097ad4
+Q
+!contracts/dispute-resolution.clar,5/a/5acd40b2788851c069b177145b3954820caeb4e5
